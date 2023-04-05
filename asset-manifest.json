@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tyagimayank213/Router-Functionality.git/static/css/main.7d5307e7.css",
+    "main.js": "/tyagimayank213/Router-Functionality.git/static/js/main.65ae72cf.js",
+    "static/media/signup.png": "/tyagimayank213/Router-Functionality.git/static/media/signup.b431d919de01b6515dd6.png",
+    "static/media/login.png": "/tyagimayank213/Router-Functionality.git/static/media/login.4d877a447365e5137b67.png",
+    "static/media/frame.png": "/tyagimayank213/Router-Functionality.git/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/Logo.svg": "/tyagimayank213/Router-Functionality.git/static/media/Logo.fd896773ef070a122541fd8722efa10f.svg",
+    "index.html": "/tyagimayank213/Router-Functionality.git/index.html",
+    "main.7d5307e7.css.map": "/tyagimayank213/Router-Functionality.git/static/css/main.7d5307e7.css.map",
+    "main.65ae72cf.js.map": "/tyagimayank213/Router-Functionality.git/static/js/main.65ae72cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d5307e7.css",
+    "static/js/main.65ae72cf.js"
+  ]
+}
